@@ -1,0 +1,12 @@
+.{
+    .name = .FNZ,
+    .version = "0.16.0-dev.2193+fc517bd01",
+    .dependencies = .{
+        .zigglgen = .{
+            .url = "git+https://github.com/castholm/zigglgen.git#6b21369ac50de8826f8af60a7edb33693b4ec7bf",
+            .hash = "zigglgen-0.5.0-zigglr_CLwBs1aABtYVtxNPo1SB8AzgKMVouoqULqkDQ",
+        },
+    },
+    .paths = .{""},
+    .fingerprint = 0x6e12f201b1320b64,
+}
